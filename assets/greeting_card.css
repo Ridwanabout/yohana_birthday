@@ -20,7 +20,7 @@ body {
 }
 
 .wrap {
-    padding: 1.5em 1.0em;
+    padding: 0.5em 0.5em;
     height: 100%;
 }
 #card-front, #card-inside {
